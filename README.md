@@ -2,7 +2,6 @@
 
 This project is a follow-up to the previous flashcard projects, Flashcard1 and Flashcard2. 
 It enhances the functionality by allowing users to create, view, and manage flashcards more effectively through an intuitive interface.
-Generative AI was used to suggest flashcard functionality and generate flashcard data.
 Android Studio was the platform used for this application.
 
 ## Demo Video
